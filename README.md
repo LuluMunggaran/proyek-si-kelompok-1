@@ -7,7 +7,9 @@ Robertus Ega Kurniawan - Programmer (Front-End/Back-End)
 Muhammad Radia Widiazto  - Tester (Quality Assurance)  
 
 
-Proyek ini bertujuan untuk mengembangkan Sistem Manajemen Inventaris untuk laboratorium Universitas Gunadarma. Sistem ini memungkinkan staf untuk melacak, memantau, dan memperbarui item inventaris secara efisien. Fitur-fitur utama termasuk menambah, menghapus, dan memperbarui item, membuat laporan, dan antarmuka yang mudah digunakan.
+**Proyek ini bertujuan untuk mengembangkan Sistem Manajemen Inventaris untuk laboratorium Universitas Gunadarma. Sistem ini memungkinkan staf untuk melacak, memantau, dan memperbarui item inventaris secara efisien. Fitur-fitur utama termasuk menambah, menghapus, dan memperbarui item, membuat laporan, dan antarmuka yang mudah digunakan.
+**
+-- tolong direvisi deskripsinya
 
 **Technologies Used**
 Programming Language: PHP,JavaScript
